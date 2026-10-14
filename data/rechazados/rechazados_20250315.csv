@@ -1,0 +1,6 @@
+sucursal_id,codigo,cantidad_raw,unidad_origen,fecha_raw,archivo,fila,cantidad,fecha,motivo,detalle
+CENTRO,LEC-004,,,15/03/2025,conteo_CENTRO_20250315.csv,5,,2025-03-15,cantidad_invalida,Cantidad vacía o no numérica
+CENTRO,HAR-001,129.87,,15/03/2025,conteo_CENTRO_20250315.csv,14,129.87,2025-03-15,duplicado,Fila duplicada (mismo producto contado dos veces)
+CITYBELL,VAS-010,-117.54,,2025-03-15,conteo_CITYBELL_20250315.csv,11,-117.54,2025-03-15,cantidad_negativa,Cantidad negativa
+CITYBELL,POL-012,19.81,,2025-03-15,conteo_CITYBELL_20250315.csv,14,19.81,2025-03-15,duplicado,Fila duplicada (mismo producto contado dos veces)
+LOSHORNOS,CAF-006,2.98,,15/03/2025,conteo_LOSHORNOS_20250315.csv,15,2.98,2025-03-15,duplicado,Fila duplicada (mismo producto contado dos veces)

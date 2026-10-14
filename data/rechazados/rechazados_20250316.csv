@@ -1,0 +1,7 @@
+sucursal_id,codigo,cantidad_raw,unidad_origen,fecha_raw,archivo,fila,cantidad,fecha,motivo,detalle
+CENTRO,LEC-004,-96.24,,16/03/2025,conteo_CENTRO_20250316.csv,5,-96.24,2025-03-16,cantidad_negativa,Cantidad negativa
+CITYBELL,HAR-001,98.19,,2025-03-16,conteo_CITYBELL_20250316.csv,14,98.19,2025-03-16,duplicado,Fila duplicada (mismo producto contado dos veces)
+GONNET,CAF-006,-64599.99999999999,g,16-03-2025,conteo_GONNET_20250316.csv,7,-64599.99999999999,2025-03-16,cantidad_negativa,Cantidad negativa
+GONNET,MAN-002,30350.0,g,16-03-2025,conteo_GONNET_20250316.csv,14,30350.0,2025-03-16,duplicado,Fila duplicada (mismo producto contado dos veces)
+LOSHORNOS,MAN-002,,,16/03/2025,conteo_LOSHORNOS_20250316.csv,4,,2025-03-16,cantidad_invalida,Cantidad vacía o no numérica
+LOSHORNOS,XXX-999,67.08,,16/03/2025,conteo_LOSHORNOS_20250316.csv,15,67.08,2025-03-16,producto_inexistente,Código de producto que no existe en el catálogo

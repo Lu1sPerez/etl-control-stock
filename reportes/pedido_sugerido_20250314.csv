@@ -1,0 +1,9 @@
+sucursal_id,codigo,descripcion,unidad,stock_fisico,cantidad_sugerida
+CENTRO,MAN-002,Manteca,kg,12.39,33.0
+CITYBELL,AZU-003,Azúcar,kg,19.8,41.0
+CITYBELL,HAR-001,Harina 000,kg,27.28,93.0
+GONNET,AZU-003,Azúcar,kg,18.98,42.0
+GONNET,CAF-006,Café en grano,kg,5.39,13.0
+GONNET,JAM-009,Jamón cocido,kg,5.81,16.0
+GONNET,LIM-011,Limón,kg,4.48,11.0
+GONNET,TEH-007,Té en hebras,kg,1.49,4.0

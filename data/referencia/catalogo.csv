@@ -1,0 +1,13 @@
+codigo,descripcion,unidad,punto_pedido,stock_objetivo
+HAR-001,Harina 000,kg,40,120
+MAN-002,Manteca,kg,15,45
+AZU-003,Azúcar,kg,20,60
+LEC-004,Leche entera,l,60,160
+HUE-005,Huevos,u,180,540
+CAF-006,Café en grano,kg,6,18
+TEH-007,Té en hebras,kg,2,5
+QUE-008,Queso tybo,kg,8,24
+JAM-009,Jamón cocido,kg,7,21
+VAS-010,Vaso descartable 12oz,u,300,1200
+LIM-011,Limón,kg,5,15
+POL-012,Pechuga de pollo,kg,8,25

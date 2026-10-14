@@ -1,0 +1,6 @@
+sucursal_id,codigo,cantidad_raw,unidad_origen,fecha_raw,archivo,fila,cantidad,fecha,motivo,detalle
+CENTRO,TEH-007,,,14/03/2025,conteo_CENTRO_20250314.csv,8,,2025-03-14,cantidad_invalida,Cantidad vacía o no numérica
+CENTRO,CAF-006,21.96,,14/03/2025,conteo_CENTRO_20250314.csv,14,21.96,2025-03-14,duplicado,Fila duplicada (mismo producto contado dos veces)
+CENTRO,XXX-999,153.04,,14/03/2025,conteo_CENTRO_20250314.csv,15,153.04,2025-03-14,producto_inexistente,Código de producto que no existe en el catálogo
+CITYBELL,XXX-999,27.28,,2025-03-14,conteo_CITYBELL_20250314.csv,14,27.28,2025-03-14,producto_inexistente,Código de producto que no existe en el catálogo
+GONNET,POL-012,,g,14-03-2025,conteo_GONNET_20250314.csv,13,,2025-03-14,cantidad_invalida,Cantidad vacía o no numérica

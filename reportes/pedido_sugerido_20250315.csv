@@ -1,0 +1,11 @@
+sucursal_id,codigo,descripcion,unidad,stock_fisico,cantidad_sugerida
+CITYBELL,CAF-006,Café en grano,kg,5.87,13.0
+CITYBELL,TEH-007,Té en hebras,kg,1.32,4.0
+GONNET,CAF-006,Café en grano,kg,3.27,15.0
+GONNET,JAM-009,Jamón cocido,kg,3.27,18.0
+GONNET,LEC-004,Leche entera,l,53.31,107.0
+GONNET,LIM-011,Limón,kg,3.2,12.0
+LOSHORNOS,CAF-006,Café en grano,kg,2.98,16.0
+LOSHORNOS,LEC-004,Leche entera,l,48.63,112.0
+LOSHORNOS,QUE-008,Queso tybo,kg,3.86,21.0
+LOSHORNOS,VAS-010,Vaso descartable 12oz,u,183.0,1017.0

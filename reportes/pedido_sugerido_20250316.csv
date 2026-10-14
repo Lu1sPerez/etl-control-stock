@@ -1,0 +1,5 @@
+sucursal_id,codigo,descripcion,unidad,stock_fisico,cantidad_sugerida
+CITYBELL,CAF-006,Café en grano,kg,3.64,15.0
+GONNET,JAM-009,Jamón cocido,kg,1.28,20.0
+GONNET,LIM-011,Limón,kg,1.11,14.0
+LOSHORNOS,HUE-005,Huevos,u,161.0,379.0

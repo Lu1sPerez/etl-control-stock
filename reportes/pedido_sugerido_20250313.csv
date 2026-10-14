@@ -1,0 +1,8 @@
+sucursal_id,codigo,descripcion,unidad,stock_fisico,cantidad_sugerida
+GONNET,HUE-005,Huevos,u,133.0,407.0
+GONNET,POL-012,Pechuga de pollo,kg,7.96,18.0
+GONNET,QUE-008,Queso tybo,kg,7.08,17.0
+LOSHORNOS,HAR-001,Harina 000,kg,34.36,86.0
+LOSHORNOS,JAM-009,Jamón cocido,kg,6.99,15.0
+LOSHORNOS,LIM-011,Limón,kg,4.22,11.0
+LOSHORNOS,TEH-007,Té en hebras,kg,1.81,4.0

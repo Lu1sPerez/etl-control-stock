@@ -1,0 +1,8 @@
+sucursal_id,codigo,cantidad_raw,unidad_origen,fecha_raw,archivo,fila,cantidad,fecha,motivo,detalle
+CENTRO,POL-012,,,10/03/2025,conteo_CENTRO_20250310.csv,13,,2025-03-10,cantidad_invalida,Cantidad vacía o no numérica
+CENTRO,MAN-002,47.7,,10/03/2025,conteo_CENTRO_20250310.csv,14,47.7,2025-03-10,duplicado,Fila duplicada (mismo producto contado dos veces)
+CENTRO,XXX-999,125.77,,10/03/2025,conteo_CENTRO_20250310.csv,15,125.77,2025-03-10,producto_inexistente,Código de producto que no existe en el catálogo
+CITYBELL,TEH-007,-102.76,,2025-03-10,conteo_CITYBELL_20250310.csv,8,-102.76,2025-03-10,cantidad_negativa,Cantidad negativa
+CITYBELL,MAN-002,38.39,,2025-03-10,conteo_CITYBELL_20250310.csv,14,38.39,2025-03-10,duplicado,Fila duplicada (mismo producto contado dos veces)
+GONNET,VAS-010,888.0,u,10-03-2025,conteo_GONNET_20250310.csv,14,888.0,2025-03-10,duplicado,Fila duplicada (mismo producto contado dos veces)
+LOSHORNOS,HAR-001,-66.76,,10/03/2025,conteo_LOSHORNOS_20250310.csv,3,-66.76,2025-03-10,cantidad_negativa,Cantidad negativa
